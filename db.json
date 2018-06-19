@@ -1,5 +1,5 @@
 {
-  "RappersOnline": [
+  "RappersOnline" : [
     { "name": "XXXTENTACION", "age": 20 },
     { "name": "lilpump", "age": 17 },
     { "name": "lilxan", "age": 21 },
@@ -7,6 +7,6 @@
     { "name": "postMalone", "age": 22 },
     { "name": "nav", "age": 28 },
     { "name": "Bhad Bhabie", "age": 15 },
-    { "name": "6ix9ine", "age": 22},
-  ]
+    { "name": "6ix9ine", "age": 22}
+  ],
 }
