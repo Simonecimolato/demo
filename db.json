@@ -1,13 +1,13 @@
 { 
 "RappersOnline" : [
-    { "name": "XXXTENTACION", "age": 20, isHeMale: true},
-    { "name": "lilpump", "age": 17, isHeMale: true},
-    { "name": "lilxan", "age": 21, isHeMale: true},
-    { "name": "drake", "age": 31, isHeMale: true},
-    { "name": "postMalone", "age": 22, isHeMale: true},
-    { "name": "nav", "age": 28, isHeMale: true},
-    { "name": "Bhad Bhabie", "age": 15, isHeMale: false},
-    { "name": "6ix9ine", "age": 22, isHeMale: true}
+    { "name": "XXXTENTACION", "age": 20, "isHeMale": true},
+    { "name": "lilpump", "age": 17, "isHeMale": true},
+    { "name": "lilxan", "age": 21, "isHeMale": true},
+    { "name": "drake", "age": 31, "isHeMale": true},
+    { "name": "postMalone", "age": 22, "isHeMale": true},
+    { "name": "nav", "age": 28, "isHeMale": true},
+    { "name": "Bhad Bhabie", "age": 15, "isHeMale": false},
+    { "name": "6ix9ine", "age": 22, "isHeMale": true}
   ],
 "profile": {
     "name": "Simonecimolato"
